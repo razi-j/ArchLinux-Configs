@@ -34,7 +34,7 @@ configuration {
     normal-background:           rgba ( 56, 36, 55, 00 % );
     lightfg:                     rgba ( 88, 104, 117, 00 % );
     selected-normal-background:  rgba ( 129, 91, 164, 15 % );
-    border-color:                rgba (255,255,255, 10%);
+    border-color:                rgba (255,255,255, 0%);
     spacing:                     2;
     separatorcolor:              rgba ( 0, 0, 0, 0 % );
     urgent-background:           rgba ( 56, 36, 55, 15 % );
